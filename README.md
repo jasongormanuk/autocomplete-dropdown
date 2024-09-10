@@ -18,25 +18,25 @@ The component exposes a series of CSS Custom Properties as a kind of "style API"
 /* target the web component in your CSS and override its CSS Custom Properties */
 autocomplete-dropdown {
 	--list-border-top-left-radius: 0px;
-    --list-border-top-right-radius: 0px;
-    --list-border-bottom-left-radius: 0px;
-    --list-border-bottom-right-radius: 0px;
-    --list-border-color: black;
-    --list-background-color: white;
+    	--list-border-top-right-radius: 0px;
+    	--list-border-bottom-left-radius: 0px;
+    	--list-border-bottom-right-radius: 0px;
+    	--list-border-color: black;
+    	--list-background-color: white;
 
 	--option-highlight-background-color: darkslategray;
-    --option-highlight-border-color: darkslategray;
-    --option-highlight-text-color: white;
+    	--option-highlight-border-color: darkslategray;
+    	--option-highlight-text-color: white;
 
 	--input-border-top-left-radius: 0px;
-    --input-border-top-right-radius: 0px;
-    --input-border-bottom-left-radius: 0px;
-    --input-border-bottom-right-radius: 0px;
-    --input-border-color: black;
-    --input-border-width: 2px;
+    	--input-border-top-right-radius: 0px;
+    	--input-border-bottom-left-radius: 0px;
+    	--input-border-bottom-right-radius: 0px;
+    	--input-border-color: black;
+    	--input-border-width: 2px;
 	--input-text-color: black;
 
-    --font-family: arial, sans-serif;
+    	--font-family: arial, sans-serif;
 }
 ```
 
