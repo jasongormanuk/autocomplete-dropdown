@@ -70,4 +70,6 @@ Add alternative search terms and words associated to a result, add a `data-alt-n
 <script type="module" src="./autocomplete-dropdown-wc.js"></script>
 ```
 
+### Stress testing
 
+I've tried the component with 3000 option elements, it may be possible to push to 4000 or even 5000 but it will depend on the device rendering the page. If you have even more options another solution would be best.
