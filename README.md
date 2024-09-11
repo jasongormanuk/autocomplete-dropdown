@@ -1,4 +1,4 @@
-# autocomplete-dropdown
+# &lt;autocomplete-dropdown&gt;
 
 A Web Component to progressively enhance an HTML select element into a text search box.
 
