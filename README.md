@@ -8,7 +8,7 @@ Implemented in pure JavaScript with zero dependencies, it maintains and updates 
 
 ## Usage
 
-Include the web components JS file in your page and wrap autocomplete-dropdown around your select element.
+Include the web components JS file in your page and wrap `<autocomplete-dropdown>` around your select element.
 
 ```
 <autocomplete-dropdown>
@@ -57,7 +57,7 @@ autocomplete-dropdown {
 
 ### Alternative search terms
 
-It's also possible to add alternative search terms and words associated to a result, add a `data-alt-name` attribute to the &lt;option&gt; element to apply alternative search terms.
+Add alternative search terms and words associated to a result, add a `data-alt-name` attribute to the `<option>` element to apply its alternative search terms.
 
 ```
 <autocomplete-dropdown>
