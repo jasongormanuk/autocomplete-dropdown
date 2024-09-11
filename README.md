@@ -43,7 +43,7 @@ autocomplete-dropdown {
     --option-highlight-background-color: darkslategray;--option-highlight-border-color: darkslategray;
     --option-highlight-text-color: white;
 
-	--input-border-top-left-radius: 0px;
+    --input-border-top-left-radius: 0px;
     --input-border-top-right-radius: 0px;
     --input-border-bottom-left-radius: 0px;
     --input-border-bottom-right-radius: 0px;
