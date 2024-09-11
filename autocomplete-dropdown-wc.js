@@ -72,15 +72,6 @@ styles.replaceSync(`
         outline: 3px solid #ecc94b
     }
 
-    .autocomplete svg {
-        position: absolute;
-        right: .6em;
-        width: 1.5em;
-        height: 1.5em;
-        top: .8em;
-        fill: var(--icon-color);
-    }
-
     .autocomplete [role=listbox] {
         display: block;
         margin: 0;
