@@ -6,6 +6,10 @@ Inspired and built upon [this article from Adam Silver](https://adamsilver.io/bl
 
 Implemented in pure JavaScript with zero dependencies, it maintains and updates the original select element to ensure form submissions remain unaffected. To the server or form handler, it appears as if you're still using the select element, while to the user or screen reader, it's an enhanced search box.
 
+## Demo
+
+[https://jasongorman.uk/demos/autocomplete-dropdown/](https://jasongorman.uk/demos/autocomplete-dropdown/)
+
 ## Usage
 
 Include the web components JS file in your page and wrap `<autocomplete-dropdown>` around your select element.
